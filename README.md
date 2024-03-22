@@ -2,40 +2,30 @@
 
 
 ## Hi there! I'm Stefan, a third-year software engineering student at York University.
+#### I'm constantly trying to improve and learn new things. There's always more to learn 👨‍💻
 
-
-### I'm constantly trying to improve and learn new things in the world of programming. There's always more to learn 👨‍💻
-
-
-## Languages
-
+<details>
+  <summary>## Languages</summary>
   <div>
-    <p >
+    <p>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,python,js,ts,sql,c" />
+        <img src="https://skillicons.dev/icons?i=java,python,js,ts,c" />
       </a>
     </p>
   </div>
+</details>
 
-## Tools & Frameworks
-
+<details>
+  <summary>## Tools & Frameworks</summary>
   <div>
-    <p >
+    <p>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=react,tailwind,express,nextjs,spring,flask,mysql,postgres,sqlite,mongodb,docker" />
       </a>
     </p>
   </div>
+</details>
 
+#### Feel free to take a look at some of my favourite projects that I've made under the "Pinned" section below:
+#### If you'd like to chat about any of my projects, or anything else feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/stefan-smol/).
 
-### Feel free to take a look at some of my favourite projects that I've made under the "Pinned" section below.
-
-#
-<div>
-  <h2>If you'd like to chat about any of my projects, or anything else feel free to connect with me on linkedin:</h2>
-  <p>
-    <a href="www.linkedin.com/in/stefan-smol">
-      <img src="https://skillicons.dev/icons?i=linkedin"/>
-    </a>
-  </p>
-</div>
