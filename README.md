@@ -28,6 +28,6 @@
 </details>
 
 
-**Feel free to take a look at some of my favourite projects that I've made under the "Pinned" section below:**
+**Feel free to take a look at some of my favourite projects that I've made under the "Pinned" section below:**  
 **If you'd like to chat about any of my projects, or anything else feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/stefan-smol/).**
 
