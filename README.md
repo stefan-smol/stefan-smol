@@ -1,7 +1,7 @@
 ![Profile Banner Image](images/github_profile_banner_2.png)
 
 
-## Hi there! I'm Stefan, a third-year software engineering student at York University.
+## Hi there! I'm Stefan, a third-year computer science student at York University.
 **I'm constantly trying to improve and learn new things. There's always more to learn** 👨‍💻
 
 
@@ -10,7 +10,7 @@
   <div>
     <p>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,python,js,ts,c" />
+        <img src="https://skillicons.dev/icons?i=js,ts,java,python,c" />
       </a>
     </p>
   </div>
@@ -21,7 +21,7 @@
   <div>
     <p>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,tailwind,express,nextjs,spring,flask,mysql,postgres,sqlite,mongodb,docker" />
+        <img src="https://skillicons.dev/icons?i=react,tailwind,express,nextjs,spring,flask,mysql,postgres,sqlite,mongodb,docker,aws" />
       </a>
     </p>
   </div>
