@@ -1,7 +1,7 @@
 ![Profile Banner Image](images/github_profile_banner_2.png)
 
 
-## Hi there! I'm Stefan, a third-year computer science student at York University.
+## Hi there! I'm Stefan, a fourth-year computer science student at York University.
 **I'm constantly trying to improve and learn new things. There's always more to learn** 👨‍💻
 
 
