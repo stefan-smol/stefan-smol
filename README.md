@@ -10,7 +10,7 @@
   <div>
     <p>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,ts,python,java,go,c" />
+        <img src="https://skillicons.dev/icons?i=js,ts,php,python,java,go,c" />
       </a>
     </p>
   </div>
@@ -21,7 +21,7 @@
   <div>
     <p>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,tailwind,express,nextjs,spring,flask,mysql,postgres,sqlite,mongodb,docker,aws" />
+        <img src="https://skillicons.dev/icons?i=react,tailwind,express,nextjs,laravel,flask,spring,mysql,postgres,sqlite,mongodb,docker,aws" />
       </a>
     </p>
   </div>
